@@ -1,1 +1,1 @@
-export {demo} from '../demo/ui.js';
+export const COOLING_DEMO=true;
